@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game Component
+# Tic-Tac-Toe Game
 
 This repository includes a modern, interactive Tic-Tac-Toe game implemented in a single HTML file: `TicTacToe.html`. The game features a responsive UI, multiple play modes, move history, sound effects, dark mode, and more.
 
